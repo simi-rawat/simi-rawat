@@ -7,7 +7,7 @@ Building scalable backend systems, full-stack applications, and AI-powered solut
 🚀 About Me
 
 
-🎓 B.Tech CSE (AIML) @ VIT Vellore (CGPA: 8.72)
+🎓 B.Tech CSE (AIML) @ VIT Vellore (CGPA: 8.7)
 🎓 B.Sc Data Science @ IIT Madras (CGPA: 8.0)
 💼 SDE Intern @ Ferns N Petals
 🌱 Currently learning:
@@ -108,4 +108,4 @@ Interested in scalable systems and high-performance applications
 📧 Simran.s.rawat.10@gmail.com
 💼 LinkedIn: linkedin.com/in/simran-rawat-19961628a
 
-<p align="center"><i>Thanks for stopping by — always open to interesting collaborations! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by  always open to interesting collaborations! 🚀</i></p>
