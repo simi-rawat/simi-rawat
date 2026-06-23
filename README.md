@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simran Rawat</h1>
-<h3 align="center">SDE Intern | Backend-Focused Full Stack Developer | Golang & AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Simran Rawat</h1> <h3 align="center">SDE Intern | Backend-Focused Full Stack Developer | Golang & AI Enthusiast</h3>
 
 <p align="center">
 Building scalable backend systems, full-stack applications, and AI-powered solutions.
