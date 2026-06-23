@@ -7,14 +7,14 @@ Building scalable backend systems, full-stack applications, and AI-powered solut
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 B.Tech CSE (AIML) @ VIT Vellore (CGPA: 8.72)
 - 🎓 B.Sc Data Science @ IIT Madras (CGPA: 8.0)
 - 💼 SDE Intern @ Ferns N Petals
 - 🏑 National Medalist in Inline Hockey
 
-### 🌱 Currently Learning
+###  Currently Learning
 - Golang Backend Development
 - System Design
 - Distributed Systems
