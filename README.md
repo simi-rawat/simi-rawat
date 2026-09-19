@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simran Rawat</h1> <h3 align="center">SDE Intern | Backend-Focused Full Stack Developer | Golang & AI Enthusiast</h3>
 
 <p align="center">
-Building scalable backend systems, full-stack applications, and AI-powered solutions.
+Building scalable backend systems, full stack applications, and AI powered solutions.
 </p>
 
 ---
@@ -49,7 +49,7 @@ Building scalable backend systems, full-stack applications, and AI-powered solut
 ### BlogGo
 🌐 [Live Demo](https://euphonious-stardust-1d95fb.netlify.app/) | 💻 [Backend Repo](https://github.com/simi-rawat/Blog-Application-Backend) | 💻 [Frontend Repo](https://github.com/simi-rawat/Blog-Application-Frontend)
 
-Production-ready blogging platform featuring JWT authentication, image uploads, comment management, and a Golang REST API backend.
+Production ready blogging platform featuring JWT authentication, image uploads, comment management, and a Golang REST API backend.
 
 **Tech:** Golang • React • MongoDB • JWT
 
